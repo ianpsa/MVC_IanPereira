@@ -34,6 +34,9 @@ A separação de preocupações da arquitetura MVC também beneficia a testabili
 
 ### Recursos Adicionais:
 Documentação do Sails.js: https://github.com/balderdashy/sails
+
 Tutorial do draw.io: https://m.youtube.com/watch?v=w3zm-wbmlpc
+
 Exemplos de diagramas MVC: https://www.lucidchart.com/pages/templates
+
 MySQL documentação: https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html
